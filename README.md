@@ -18,6 +18,8 @@ Data Science Immersive, General Assembly, 9 March 2018
 |:---------:|:-----------:|
 | [README](./README.md) | Project description |
 | [Input](./input) | Input Files |
+| [Model Selection_final](.Model_Selection_final.ipynb) | Notebook Gridsearched Classifers |
+| [Model_Starter_RS_2](.Model_Starter_RS_2_.ipynb) | Notebook of Ideas For Improvments |
 
 ## Data Description
 
@@ -32,6 +34,8 @@ For more information on the datasets is available here(https://www.kaggle.com/c/
 The goal of this project is to predict whether West Nile Virus will be present in the trap observation.
 
 ## Analysis Explanation
+
+
 
 ## Project Concepts
 
