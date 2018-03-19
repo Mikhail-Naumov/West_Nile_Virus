@@ -1,6 +1,6 @@
 # Predicting West Nile Virus in the City of Chicago
 GA-DSI Project 4
-Kaggle Competition: Top Score 0.71
+Kaggle Competition: Top Kaggle Score 0.76
 
 Mikhail Naumov, William Peterson, Chrissy Smiley, Claudia Greco
 Data Science Immersive, General Assembly, 9 March 2018
@@ -17,9 +17,15 @@ Data Science Immersive, General Assembly, 9 March 2018
 | FILENAME |  DESCRIPTION |
 |:---------:|:-----------:|
 | [README](./README.md) | Project description |
+| [Deprecated](./Deprecated) | Previous/Removed work |
 | [Input](./input) | Input Files |
 | [Model Selection_final](.Model_Selection_final.ipynb) | Notebook Gridsearched Classifers |
 | [Model_Starter_RS_2](.Model_Starter_RS_2_.ipynb) | Notebook of Ideas For Improvments |
+| [Pro_Test.csv](Pro_Test.csv) | Preprocessed Kaggle Submission Input |
+| [Pro_Train.csv](Pro_Train.csv) | Preprocessed Training Inputs |
+| [ProcessPipeline.py](ProcessPipeline.py) | Weather/Insect/Water Source Preprocessor |
+| [allDF.pickle](AllDF.pickle) | For AWS, dataframes |
+
 
 ## Data Description
 
